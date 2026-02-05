@@ -23,6 +23,8 @@ El objetivo es ofrecer una **visión clara, visual y accionable** del desempeño
 
 ## 📈 Visualizaciones Implementadas
 
+![POWER BI](https://github.com/romyluna/PowerBI_Analisis_Ventas_ElectroMas/raw/master/1.png)
+![POWER BI](https://github.com/romyluna/PowerBI_Analisis_Ventas_ElectroMas/raw/master/2.png)
 
 ---
 
